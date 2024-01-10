@@ -69,10 +69,9 @@ sudo docker build . --no-cache -t encoder && sudo docker run --restart always --
 sudo docker stop encoder && sudo docker rm encoder
 ```
 
-### Credits
-- [ShannonScott](https://gist.github.com/ShannonScott) for [transcode_h265.py](https://gist.github.com/ShannonScott/6d807fc59bfa0356eee64fad66f9d9a8)
-- [viperadnan-git](https://github.com/viperadnan-git/video-encoder-bot) for queue logic etc.
+<h3> ─「 ᴄʀᴇᴅɪᴛs 」─
+</h3>
 
-### Copyright & License
-- Copyright &copy; 2022 &mdash; [WeebTime](https://github.com/WeebTime)
-- Licensed under the terms of the [GNU Affero General Public License Version 3 &dash; 29 June 2007](./LICENSE)
+- <b>[ᴍɪᴋᴇʏ](https://github.com/erotixe)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/veldxd) </b>
+ 
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/team_netflix) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
