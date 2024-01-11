@@ -40,10 +40,9 @@ To change the ffmpeg profile edit them in [ffmpeg.py](/VideoEncoder/utils/ffmpeg
 
 ### ʜᴇʀᴏᴋᴜ ᴏʀ ʀᴇɴᴅᴇʀ
 
-<b>Deploying</b>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/erotixe/Video-Encoder-BOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/NobiDeveloper/Nobita-Filter-Bot">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/erotixe/Video-Encoder-BOT/tree/beta">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
