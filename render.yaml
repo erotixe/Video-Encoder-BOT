@@ -3,7 +3,7 @@ services:
   - type: web
     name: Video-Encoder-BOT
     env: python
-    startCommand: python3 bot.py
+    startCommand: python3 -m VideoEncoder
     buildCommand: pip3 install -U -r requirements.txt
     repo: https://github.com/erotixe/Video-Encoder-BOT.git # optional
     region: oregon # optional (defaults to oregon)
