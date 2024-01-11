@@ -27,7 +27,7 @@ from .database.add_user import AddUserToDatabase
 async def OpenSettings(event: Message, user_id: int):
     try:
         await event.edit(
-            text="Settings of the Bot<a href='https://telegra.ph/file/11379aba315ba245ebc7b.jpg'>!</a>",
+            text="Settings of the Bot<a href='https://graph.org/file/205c757cda25bd6553291.jpg'>!</a>",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("Video", callback_data="VideoSettings"), InlineKeyboardButton(
@@ -129,7 +129,7 @@ async def VideoSettings(event: Message, user_id: int):
             frame = 'Source'
 
         await event.edit(
-            text="Here's Your Video Settings<a href='https://telegra.ph/file/11379aba315ba245ebc7b.jpg'>:</a>",
+            text="Here's Your Video Settings<a href='https://graph.org/file/205c757cda25bd6553291.jpg'>:</a>",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton(
@@ -222,7 +222,7 @@ async def AudioSettings(event: Message, user_id: int):
             channels = 'Source'
 
         await event.edit(
-            text="Here's Your Audio Settings<a href='https://telegra.ph/file/11379aba315ba245ebc7b.jpg'>:</a>",
+            text="Here's Your Audio Settings<a href='https://graph.org/file/205c757cda25bd6553291.jpg'>:</a>",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton(f"Codec", callback_data="Watermark"), InlineKeyboardButton(
@@ -248,7 +248,7 @@ async def AudioSettings(event: Message, user_id: int):
 async def ExtraSettings(event: Message, user_id: int):
     try:
         await event.edit(
-            text="Here's Your Subtitle Settings<a href='https://telegra.ph/file/11379aba315ba245ebc7b.jpg'>:</a>",
+            text="Here's Your Subtitle Settings<a href='https://graph.org/file/205c757cda25bd6553291.jpg'>:</a>",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton(
