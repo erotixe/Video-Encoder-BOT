@@ -4,6 +4,7 @@
   "keywords": [
     "telegram",
     "file",
+    "video",
     "encoder"
   ],
   "repository": "https://github.com/erotixe/video-encoder-bot",
@@ -43,7 +44,7 @@
     },
     "DRIVE_DIR":{
       "description": "(Optional) Temporary download directory to keep downloaded files.",
-      "value": ""
+      "value": "12TojrNbqZJz40p1kqGAaMzL8WSDxl2Nq"
     },
     "DOWNLOAD_DIR": {
       "description": "Optional: start message of bot, use HTML parsemode format",
