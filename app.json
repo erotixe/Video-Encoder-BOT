@@ -1,14 +1,14 @@
 {
   "name": "TG video/file encoder Bot",
-  "description": "video encoder bot",
+  "description": "Simple Telegram Video Encoder Bot.",
   "keywords": [
     "telegram",
-    "file",
+    "python",
     "video",
-    "encoder"
+    "compressor-bot"
   ],
   "repository": "https://github.com/erotixe/video-encoder-bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "logo": "https://graph.org/file/49ab250d34f17b14ae559.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
